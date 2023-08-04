@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/seattlecountdown/static/css/main.00e23d10.css",
+    "main.js": "/seattlecountdown/static/js/main.b7074943.js",
+    "static/media/seattlebackground.mp4": "/seattlecountdown/static/media/seattlebackground.8a55545a35fa98e23f22.mp4",
+    "index.html": "/seattlecountdown/index.html",
+    "main.00e23d10.css.map": "/seattlecountdown/static/css/main.00e23d10.css.map",
+    "main.b7074943.js.map": "/seattlecountdown/static/js/main.b7074943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e23d10.css",
+    "static/js/main.b7074943.js"
+  ]
+}
