@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/seattlecountdown/static/css/main.00e23d10.css",
-    "main.js": "/seattlecountdown/static/js/main.b7074943.js",
-    "static/media/seattlebackground.mp4": "/seattlecountdown/static/media/seattlebackground.8a55545a35fa98e23f22.mp4",
+    "main.css": "/seattlecountdown/static/css/main.318d12cf.css",
+    "main.js": "/seattlecountdown/static/js/main.dbadf777.js",
+    "static/media/spaceneedle.png": "/seattlecountdown/static/media/spaceneedle.831591de95befe59e747.png",
+    "static/media/background.svg": "/seattlecountdown/static/media/background.2fd47375442a1078976f.svg",
     "index.html": "/seattlecountdown/index.html",
-    "main.00e23d10.css.map": "/seattlecountdown/static/css/main.00e23d10.css.map",
-    "main.b7074943.js.map": "/seattlecountdown/static/js/main.b7074943.js.map"
+    "main.318d12cf.css.map": "/seattlecountdown/static/css/main.318d12cf.css.map",
+    "main.dbadf777.js.map": "/seattlecountdown/static/js/main.dbadf777.js.map"
   },
   "entrypoints": [
-    "static/css/main.00e23d10.css",
-    "static/js/main.b7074943.js"
+    "static/css/main.318d12cf.css",
+    "static/js/main.dbadf777.js"
   ]
 }
