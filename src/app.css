@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-image: url(./background.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+.SpaceNeedle {
+    margin-bottom: -3rem;
+    padding: 0;
+    height: 20em;
+    width: 20em;
+}
